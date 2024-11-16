@@ -1,5 +1,8 @@
 # Madhav-Sales-Analysis-Dashboard
 
+Created an interactive dashboard to track and analyze online sales data through Power BI.
+used complex parameters to drill down in worksheet and customization using filters and slicers.
+
 Project Insights 🗒 :
 1. Created interactive dashboard to track and analyze online sales data.
 2. Used complex parameters to drill down in worksheet and customization using filters and slicers.
